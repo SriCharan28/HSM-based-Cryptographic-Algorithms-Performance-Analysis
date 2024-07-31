@@ -1,0 +1,3 @@
+Speed: Measure the time taken for key generation, encryption, and decryption operations for each algorithm.
+Throughput: Calculate the number of operations per second (e.g., encryptions or decryptions) each algorithm can perform.
+Resource Usage: Monitor CPU and memory usage during operations to understand resource efficiency.
