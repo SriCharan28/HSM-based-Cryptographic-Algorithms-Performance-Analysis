@@ -1,0 +1,2 @@
+This folder contains the include files, which need to saved as include folder along with the C++ programs.
+-Iinclude is used while compiling the program.
